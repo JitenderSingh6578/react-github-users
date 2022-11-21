@@ -15,7 +15,7 @@ export default function Login() {
             onClick={() => loginWithRedirect()}
             className='btn btn-danger'
           >
-            Log In d
+            Log In
           </button>
         </div>
       </div>
